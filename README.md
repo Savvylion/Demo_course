@@ -6,4 +6,4 @@ Presentation by Gwendolyn Faraday at freeCodeCamp.org
 
 ## Subheader
 
-This a change to my readme file.
+This is a change to my readme file.
